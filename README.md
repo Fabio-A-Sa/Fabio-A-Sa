@@ -4,6 +4,6 @@
  <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
 </p>
 <div>
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Fabio-A-Sa&?count_private=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" >
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-A-Sa&theme=dracula">
+  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=Fabio-A-Sa&?count_private=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" >
+  <img height="250" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-A-Sa&theme=dracula">
 </div>
