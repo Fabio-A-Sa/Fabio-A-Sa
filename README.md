@@ -17,14 +17,14 @@ Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_
 
 <p>
 <img align="center" src="https://img.shields.io/badge/Tools for coding -Git-informational?style=flat&logo=Git&logoColor=white&color=4293F2">
-<img align="center" src="https://img.shields.io/badge/Tools for coding -GitHub-informational?style=flat&logo=Git&logoColor=white&color=4293F2">
+<img align="center" src="https://img.shields.io/badge/Tools for coding -GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4293F2">
 </p>
 
 <br>
 
 <p>
-<img align="center" src="https://img.shields.io/badge/Tools for coding-Visual Studio Code -informational?style=flat&logo=Git&logoColor=white&color=42F29E">
-<img align="center" src="https://img.shields.io/badge/Tools for coding -Git-informational?style=flat&logo=Git&logoColor=white&color=4293F2">
+<img align="center" src="https://img.shields.io/badge/Editors-Visual Studio Code -informational?style=flat&logo=visual-studio-code&logoColor=white&color=42F29E">
+<img align="center" src="https://img.shields.io/badge/Tools for coding -Visual Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=42F29E">
 
 </p>
   <!--- Tools --->   
