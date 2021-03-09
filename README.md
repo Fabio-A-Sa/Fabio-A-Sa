@@ -29,10 +29,19 @@ Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_
 
 <br>
 
-<h2 align = "center" >programming languages ​​that I contact, for curiosity, Geocaching or University<h2>
+<h2 align = "center" >Languages ​​that I contact, for curiosity, Geocaching or University<h2>
 <p align = "center">
-<img align="center" src="https://img.shields.io/badge/Tools for coding -Git-informational?style=flat&logo=Git&logoColor=white&color=4293F2">
-<img align="center" src="https://img.shields.io/badge/Tools for coding -GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4293F2">
+<img align="center" src="https://img.shields.io/badge/-Python-CA4245?logo=Python">
+<img align="center" src="https://img.shields.io/badge/-C++-CA4245?logo=c%2B%2B">
+<img align="center" src="https://img.shields.io/badge/-C-CA4245?logo=C">
+<img align="center" src="https://img.shields.io/badge/-Assembly-CA4245?logo=assembly">
+<img align="center" src="https://img.shields.io/badge/-R-CA4245?logo=r">
+<img align="center" src="https://img.shields.io/badge/-MarkDown-CA4245?logo=markdown">
+<img align="center" src="https://img.shields.io/badge/-HTML-CA4245?logo=html5">
+<img align="center" src="https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router">
+<img align="center" src="https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router">
+<img align="center" src="https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router">
+<img align="center" src="https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router">
 </p>
 
 <br>
