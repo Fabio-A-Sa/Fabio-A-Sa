@@ -29,8 +29,13 @@ Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_
 
 <br>
 
-<h2 align = "center" >Hi, I'm Fábio Sá </h2>
+<h2 align = "center" >programming languages ​​that I contact, for curiosity, Geocaching or University<h2>
+<p align = "center">
+<img align="center" src="https://img.shields.io/badge/Tools for coding -Git-informational?style=flat&logo=Git&logoColor=white&color=4293F2">
+<img align="center" src="https://img.shields.io/badge/Tools for coding -GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4293F2">
 </p>
+
+<br>
 
 <p align = "center" >Contact me:</p>
 <p align="center">
