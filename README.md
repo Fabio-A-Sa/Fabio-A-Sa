@@ -28,7 +28,8 @@ Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_
 </p>
 
 <br>
-  
+
+<h2 align = "center" >Hi, I'm Fábio Sá </h2>
 </p>
 
 <p align = "center" >Contact me:</p>
