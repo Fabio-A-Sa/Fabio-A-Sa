@@ -38,10 +38,10 @@ Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_
 <img align="center" src="https://img.shields.io/badge/-R-CA4245?logo=r">
 <img align="center" src="https://img.shields.io/badge/-MarkDown-CA4245?logo=markdown">
 <img align="center" src="https://img.shields.io/badge/-HTML-CA4245?logo=html5">
-<img align="center" src="https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router">
-<img align="center" src="https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router">
-<img align="center" src="https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router">
-<img align="center" src="https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router">
+<img align="center" src="https://img.shields.io/badge/-CSS-CA4245?logo=css">
+<img align="center" src="https://img.shields.io/badge/-JavaScript-CA4245?logo=Javascript">
+<img align="center" src="https://img.shields.io/badge/-Jupiter Notebook-CA4245?logo=Jupyternotebook">
+<img align="center" src="https://img.shields.io/badge/-Visual Basic-CA4245?logo=react-visualbasic">
 </p>
 
 <br>
