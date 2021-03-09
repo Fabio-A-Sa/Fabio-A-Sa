@@ -7,14 +7,26 @@
 Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_page.inicial) of the University of Porto. Master in Informatics and Computing Engineering ([MIEIC](https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_curso_id=742)). I have a passion for Technology, Mathematics and Physics.
 
 <br>
+
 <p>
-
-  <img align="center" src="https://img.shields.io/badge/Operating System-Linux-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a">
-    <img align="center" src="https://img.shields.io/badge/Operating System-Linux-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a">
-
+<img align="center" src="https://img.shields.io/badge/Operating System-Linux-informational?style=flat&logo=Linux&logoColor=white&color=EC8D5E">
+<img align="center" src="https://img.shields.io/badge/Operating System-Windows-informational?style=flat&logo=Windows&logoColor=white&color=EC8D5E">
 </p>
 
-EC8D5E
+<br>
+
+<p>
+<img align="center" src="https://img.shields.io/badge/Tools for coding -Git-informational?style=flat&logo=Git&logoColor=white&color=4293F2">
+<img align="center" src="https://img.shields.io/badge/Tools for coding -GitHub-informational?style=flat&logo=Git&logoColor=white&color=4293F2">
+</p>
+
+<br>
+
+<p>
+<img align="center" src="https://img.shields.io/badge/Tools for coding-Visual Studio Code -informational?style=flat&logo=Git&logoColor=white&color=42F29E">
+<img align="center" src="https://img.shields.io/badge/Tools for coding -Git-informational?style=flat&logo=Git&logoColor=white&color=4293F2">
+
+</p>
   <!--- Tools --->   
   <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a">
   
