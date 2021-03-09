@@ -1,7 +1,7 @@
-<p align="center">
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-    <h2 align = "center" >Hi, I'm Fábio Sá </h2>
-</p>
+###
+
+<img align="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h2 align = "center" >Hi, I'm Fábio Sá </h2>
 
 <p align = "center" >Contact me:</p>
 <p align="center">
