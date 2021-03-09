@@ -1,7 +1,36 @@
-###
 
-<img align="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<div align = "center">
+<img href="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <h2 align = "center" >Hi, I'm Fábio Sá </h2>
+</div>
+
+Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_page.inicial) of the University of Porto. Master in Informatics and Computing Engineering ([MIEIC](https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_curso_id=742)). I have a passion for Technology, Mathematics and Physics.
+
+<br>
+<p>
+
+  <img align="center" src="https://img.shields.io/badge/Operating System-Linux-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a">
+    <img align="center" src="https://img.shields.io/badge/Operating System-Linux-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a">
+
+</p>
+
+EC8D5E
+  <!--- Tools --->   
+  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a">
+  
+  <!--- Editors --->
+  <img src="https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=Vim&logoColor=white&color=2bbc8a">
+  <img src="https://img.shields.io/badge/Editor-IntelliJ%20IDEA-informational?style=flat&logo=IntelliJ-IDEA&logoColor=white&color=2bbc8a">
+  <img src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a">
+  
+  <!--- Programming languages ---> 
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a">
+  <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a">
+  <img src="https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=2bbc8a">
+  <img src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a">
+  <img src="https://img.shields.io/badge/Code-Css-informational?style=flat&logo=Css3&logoColor=white&color=2bbc8a">
+  
+</p>
 
 <p align = "center" >Contact me:</p>
 <p align="center">
@@ -10,12 +39,10 @@
 </a>
 </p>
 
-
-<br>
-
 ---
 
-<br>
+<h2 align = "center" >Some Statistics:</h2>
+
 <div align = "center">
     <img 
         align ="center" 
