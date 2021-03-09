@@ -8,39 +8,26 @@ Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_
 
 <br>
 
-<p>
+<p align = "center">
 <img align="center" src="https://img.shields.io/badge/Operating System-Linux-informational?style=flat&logo=Linux&logoColor=white&color=EC8D5E">
 <img align="center" src="https://img.shields.io/badge/Operating System-Windows-informational?style=flat&logo=Windows&logoColor=white&color=EC8D5E">
 </p>
 
 <br>
 
-<p>
+<p align = "center">
 <img align="center" src="https://img.shields.io/badge/Tools for coding -Git-informational?style=flat&logo=Git&logoColor=white&color=4293F2">
 <img align="center" src="https://img.shields.io/badge/Tools for coding -GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4293F2">
 </p>
 
 <br>
 
-<p>
+<p align = "center">
 <img align="center" src="https://img.shields.io/badge/Editors-Visual Studio Code -informational?style=flat&logo=visual-studio-code&logoColor=white&color=42F29E">
-<img align="center" src="https://img.shields.io/badge/Tools for coding -Visual Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=42F29E">
-
+<img align="center" src="https://img.shields.io/badge/Editor -Visual Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=42F29E">
 </p>
-  <!--- Tools --->   
-  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a">
-  
-  <!--- Editors --->
-  <img src="https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=Vim&logoColor=white&color=2bbc8a">
-  <img src="https://img.shields.io/badge/Editor-IntelliJ%20IDEA-informational?style=flat&logo=IntelliJ-IDEA&logoColor=white&color=2bbc8a">
-  <img src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a">
-  
-  <!--- Programming languages ---> 
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a">
-  <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a">
-  <img src="https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=2bbc8a">
-  <img src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a">
-  <img src="https://img.shields.io/badge/Code-Css-informational?style=flat&logo=Css3&logoColor=white&color=2bbc8a">
+
+<br>
   
 </p>
 
