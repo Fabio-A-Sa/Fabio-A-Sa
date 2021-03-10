@@ -31,17 +31,17 @@ Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_
 
 <h2 align = "center" >Languages ​​that I contact, for curiosity, Geocaching or University<h2>
 <p align = "center">
-<img align="center" src="https://img.shields.io/badge/-Python-CA4245?logo=Python">
-<img align="center" src="https://img.shields.io/badge/-C++-CA4245?logo=c%2B%2B">
-<img align="center" src="https://img.shields.io/badge/-C-CA4245?logo=C">
+<img align="center" src="https://img.shields.io/badge/-Python-42F29E?logo=Python">
+<img align="center" src="https://img.shields.io/badge/-C++-7042F2?logo=c%2B%2B">
+<img align="center" src="https://img.shields.io/badge/-C-E0F242?logo=C">
 <img align="center" src="https://img.shields.io/badge/-Assembly-CA4245?logo=assembly">
-<img align="center" src="https://img.shields.io/badge/-R-CA4245?logo=r">
-<img align="center" src="https://img.shields.io/badge/-MarkDown-CA4245?logo=markdown">
+<img align="center" src="https://img.shields.io/badge/-R-42C9F2?logo=r">
+<img align="center" src="https://img.shields.io/badge/-MarkDown-42F2C3?logo=markdown">
 <img align="center" src="https://img.shields.io/badge/-HTML-CA4245?logo=html5">
-<img align="center" src="https://img.shields.io/badge/-CSS-CA4245?logo=css">
-<img align="center" src="https://img.shields.io/badge/-JavaScript-CA4245?logo=Javascript">
-<img align="center" src="https://img.shields.io/badge/-Jupiter Notebook-CA4245?logo=Jupyternotebook">
-<img align="center" src="https://img.shields.io/badge/-Visual Basic-CA4245?logo=react-visualbasic">
+<img align="center" src="https://img.shields.io/badge/-CSS-F27F42?logo=css">
+<img align="center" src="https://img.shields.io/badge/-JavaScript-F2E742?logo=Javascript">
+<img align="center" src="https://img.shields.io/badge/-Jupiter Notebook-F24242?logo=Jupyternotebook">
+<img align="center" src="https://img.shields.io/badge/-Visual Basic-42F1F2?logo=react-visualbasic">
 </p>
 
 <br>
