@@ -11,6 +11,7 @@ Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_
 <p align = "center">
 <img align="center" src="https://img.shields.io/badge/Operating System-Linux-informational?style=flat&logo=Linux&logoColor=white&color=EC8D5E">
 <img align="center" src="https://img.shields.io/badge/Operating System-Windows-informational?style=flat&logo=Windows&logoColor=white&color=EC8D5E">
+  <img align="center" src="https://img.shields.io/badge/Operating System-MacOS-informational?style=flat&logo=MacOS&logoColor=white&color=EC8D5E">
 </p>
 
 <br>
