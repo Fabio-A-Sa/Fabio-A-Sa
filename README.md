@@ -20,7 +20,7 @@ Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_
 <img align="center" src="https://img.shields.io/badge/Editors-Visual Studio Code -informational?style=flat&logo=visual-studio-code&logoColor=white&color=42F29E">
 </p><br>
 
-<h2 align = "center" >Languages<h2>
+<h2 align = "center" >Languages</h2>
 <p align = "center">
 <img align="center" src="https://img.shields.io/badge/-Python-42F29E?logo=Python">
 <img align="center" src="https://img.shields.io/badge/-C++-7042F2?logo=c%2B%2B">
@@ -43,15 +43,19 @@ Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_
 <h2 align = "center" >Projects</h2>
 <p align = "center">
 
-| UC   | Name          | Description                                             | Grade (/20) |
-|------|---------------|---------------------------------------------------------|-------------|
-| LBAW | OnlyFEUP      | OnlyFEUP is a social network designed for FEUP students | 18.6        |
-| AED  | AirED         | An authenticated user.                                  | 18.6        |
-| OWN  | Owner         | The owner of a post, comment.                           |             |
-| ADM  | Administrator | Platform administrator.                                 |             |
+| UC   | Name      | Description                                                                                                                                                   | Grade (/20) |
+|------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| LBAW | OnlyFEUP  | OnlyFEUP is a social network designed to FEUP students                                                                                                        | 18.6        |
+| AED  | AirED     | Airline Database Management System in C++ using several datastructures                                                                                        | 18.6        |
+| AED  | STCP++    | A system capable of providing help to those who want to use the STCP network to move around, such as a Google Maps, through Algorithms that manipulate Graphs | 19.7        |
+| LTW  | O Comilão | Takeaway food web application using PHP and SQLite3 as server-side languages                                                                                  | 18.3        |
+| LCOM | Gertic--  | Gertic-- is inspired by the well-known game Gartic and implemented to contain all devices taught in LCOM                                                      | 18.8        |
+| ESOF | Uni++     | Uni++ is an extension of the well-known UNI application, created through agile processes and software engineering metrics                                     | 19.6        |
+| DA   | TraveLog  | A travel agency wants to organize routes and connections for its customers in the best possible way                                                           | 19.3        |
+| PFL  | Barca     | A boardgame implemented with Prolog and Minimax AI algorithm to predict oponnent's movements                                                                  | 19.8        |
 
 <br>
-<p align = "center" >Contact me:</p>
+<h2 align = "center" >Contact me:</h2>
 <p align="center">
 <a href="mailto:up202007658@edu.fe.up.pt" >
   <img align="center" title="Email" src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"/>
