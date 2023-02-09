@@ -18,7 +18,7 @@ Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_
 <img align="center" src="https://img.shields.io/badge/Operating System-Linux-informational?style=flat&logo=Linux&logoColor=white&color=EC8D5E">
 <img align="center" src="https://img.shields.io/badge/Tools for coding -Git-informational?style=flat&logo=Git&logoColor=white&color=4293F2">
 <img align="center" src="https://img.shields.io/badge/Editors-Visual Studio Code -informational?style=flat&logo=visual-studio-code&logoColor=white&color=42F29E">
-</p><br>
+</p>
 
 <h2 align = "center" >Languages</h2>
 <p align = "center">
@@ -54,7 +54,6 @@ Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_
 | DA   | TraveLog  | A travel agency wants to organize routes and connections for its customers in the best possible way                                                           | 19.3        |
 | PFL  | Barca     | A boardgame implemented with Prolog and Minimax AI algorithm to predict oponnent's movements                                                                  | 19.8        |
 
-<br>
 <h2 align = "center" >Contact me:</h2>
 <p align="center">
 <a href="mailto:up202007658@edu.fe.up.pt" >
