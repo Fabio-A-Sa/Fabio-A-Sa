@@ -40,7 +40,7 @@ Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_
     >
 </div>
 
-<h2 align = "center" >Projects<h2>
+<h2 align = "center" >Projects</h2>
 <p align = "center">
 
 | UC   | Name          | Description                                             | Grade (/20) |
