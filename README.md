@@ -38,12 +38,19 @@ Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_
         title = "Statistics 1"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-A-Sa&theme=dracula"
     >
-
 </div>
 
+<h2 align = "center" >Projects<h2>
+<p align = "center">
+
+| UC   | Name          | Description                                             | Grade (/20) |
+|------|---------------|---------------------------------------------------------|-------------|
+| LBAW | OnlyFEUP      | OnlyFEUP is a social network designed for FEUP students | 18.6        |
+| AED  | AirED         | An authenticated user.                                  | 18.6        |
+| OWN  | Owner         | The owner of a post, comment.                           |             |
+| ADM  | Administrator | Platform administrator.                                 |             |
 
 <br>
-
 <p align = "center" >Contact me:</p>
 <p align="center">
 <a href="mailto:up202007658@edu.fe.up.pt" >
