@@ -45,13 +45,13 @@ Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_
 
 | UC   | Name      | Description                                                                                                                                                   | Grade (/20) |
 |------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| LBAW | OnlyFEUP  | OnlyFEUP is a social network designed to FEUP students                                                                                                        | 18.6        |
+| LBAW | OnlyFEUP  | OnlyFEUP is a social network designed for FEUP students                                                                                                        | 18.6        |
 | AED  | AirED     | Airline Database Management System in C++ using several datastructures                                                                                        | 18.6        |
 | AED  | STCP++    | A system capable of providing help to those who want to use the STCP network to move around, such as a Google Maps, through Algorithms that manipulate Graphs | 19.7        |
 | LTW  | O Comilão | Takeaway food web application using PHP and SQLite3 as server-side languages                                                                                  | 18.3        |
 | LCOM | Gertic--  | Gertic-- is inspired by the well-known game Gartic and implemented to contain all devices taught in LCOM                                                      | 18.8        |
 | ESOF | Uni++     | Uni++ is an extension of the well-known UNI application, created through agile processes and software engineering metrics                                     | 19.6        |
-| DA   | TraveLog  | A travel agency wants to organize routes and connections for its customers in the best possible way                                                           | 19.3        |
+| DA   | [TraveLog](https://github.com/Fabio-A-Sa/Y2S2-DesenhoDeAlgoritmos/tree/main/Project%202)  | A travel agency wants to organize routes and connections for its customers in the best possible way                                                           | 19.3        |
 | PFL  | Barca     | A boardgame implemented with Prolog and Minimax AI algorithm to predict oponnent's movements                                                                  | 19.8        |
 
 <h2 align = "center" >Contact me:</h2>
