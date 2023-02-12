@@ -45,14 +45,15 @@ Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_
 
 | UC   | Name      | Description                                                                                                                                                   | Grade (/20) |
 |------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| LBAW | OnlyFEUP  | OnlyFEUP is a social network designed for FEUP students                                                                                                        | 18.6        |
-| AED  | AirED     | Airline Database Management System in C++ using several datastructures                                                                                        | 18.6        |
-| AED  | STCP++    | A system capable of providing help to those who want to use the STCP network to move around, such as a Google Maps, through Algorithms that manipulate Graphs | 19.7        |
-| LTW  | O Comilão | Takeaway food web application using PHP and SQLite3 as server-side languages                                                                                  | 18.3        |
-| LCOM | Gertic--  | Gertic-- is inspired by the well-known game Gartic and implemented to contain all devices taught in LCOM                                                      | 18.8        |
-| ESOF | Uni++     | Uni++ is an extension of the well-known UNI application, created through agile processes and software engineering metrics                                     | 19.6        |
+| LBAW | [OnlyFEUP](https://github.com/Fabio-A-Sa/Y3S1-LabDBWeb/tree/main/Project)  | OnlyFEUP is a social network designed for FEUP students                                                                                                        | 18.6        |
+| AED  | [AirED](https://github.com/Fabio-A-Sa/Y2S1-AlgoritmosEstruturasDeDados/tree/main/Project%201)     | Airline Database Management System in C++ using several datastructures                                                                                        | 18.6        |
+| AED  | [STCP++](https://github.com/Fabio-A-Sa/Y2S1-AlgoritmosEstruturasDeDados/tree/main/Project%202)    | A system capable of providing help to those who want to use the STCP network to move around, such as a Google Maps, through Algorithms that manipulate Graphs | 19.7        |
+| LTW  | [O Comilão](https://github.com/Fabio-A-Sa/Y2S2-LinguagensTecnologiasWeb/tree/main/Project) | Takeaway food web application using PHP and SQLite3 as server-side languages                                                                                  | 18.3        |
+| LCOM | [Gertic--](https://github.com/Fabio-A-Sa/Y2S2-LabComputadores/tree/main/Project)  | Gertic-- is inspired by the well-known game Gartic and implemented to contain all devices taught in LCOM                                                      | 18.8        |
+| ESOF | [Uni++](https://github.com/Fabio-A-Sa/Y2S2-SoftwareEngineer/tree/main/Project)     | Uni++ is an extension of the well-known UNI application, created through agile processes and software engineering metrics                                     | 19.6        |
 | DA   | [TraveLog](https://github.com/Fabio-A-Sa/Y2S2-DesenhoDeAlgoritmos/tree/main/Project%202)  | A travel agency wants to organize routes and connections for its customers in the best possible way                                                           | 19.3        |
-| PFL  | Barca     | A boardgame implemented with Prolog and Minimax AI algorithm to predict oponnent's movements                                                                  | 19.8        |
+| PFL  | [Barca](https://github.com/Fabio-A-Sa/Y3S1-ProgFuncionalLogica/tree/main/Project2)     | A boardgame implemented with Prolog and Minimax AI algorithm to predict oponnent's movements                                                                  | 19.8        |
+| RCOM  | [PTransfer](https://github.com/Fabio-A-Sa/Y3S1-RedesComputadores/tree/main/Project1)     |  Data connection protocol for transferring files between two computers                                                                | 18.6        |
 
 <h2 align = "center" >Contact me:</h2>
 <p align="center">
