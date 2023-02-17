@@ -4,7 +4,7 @@
 </div>
 <br>
 
-Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_page.inicial) of the University of Porto. Master in Informatics and Computing Engineering ([MIEIC](https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_curso_id=742)).
+Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_page.inicial) of the University of Porto at Master in Informatics and Computing Engineering ([MIEIC](https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_curso_id=742)).
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabio-A-Sa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -15,17 +15,6 @@ Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_
 <img align="center" src="https://img.shields.io/badge/Operating System-Linux-informational?style=flat&logo=Linux&logoColor=white&color=EC8D5E">
 <img align="center" src="https://img.shields.io/badge/Tools for coding -Git-informational?style=flat&logo=Git&logoColor=white&color=4293F2">
 <img align="center" src="https://img.shields.io/badge/Editors-Visual Studio Code -informational?style=flat&logo=visual-studio-code&logoColor=white&color=42F29E">
-</p>
-
-<h2 align = "center" >Languages</h2>
-<p align = "center">
-<img align="center" src="https://img.shields.io/badge/-Python-42F29E?logo=Python">
-<img align="center" src="https://img.shields.io/badge/-C++-7042F2?logo=c%2B%2B">
-<img align="center" src="https://img.shields.io/badge/-C-E0F242?logo=C">
-<img align="center" src="https://img.shields.io/badge/-MarkDown-42F2C3?logo=markdown">
-<img align="center" src="https://img.shields.io/badge/-HTML-CA4245?logo=html5">
-<img align="center" src="https://img.shields.io/badge/-CSS-F27F42?logo=css">
-<img align="center" src="https://img.shields.io/badge/-JavaScript-F2E742?logo=Javascript">
 </p>
 
 <h2 align = "center" >Projects</h2>
