@@ -6,12 +6,9 @@
 
 Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_page.inicial) of the University of Porto. Master in Informatics and Computing Engineering ([MIEIC](https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_curso_id=742)).
 
-<div align = "center">
-    <img
-        align ="center" 
-        alt = "Statistics 2"
-        title = "Statistics 2"
-        src="https://github-readme-stats.vercel.app/api?username=Fabio-A-Sa&?count_private=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" >
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabio-A-Sa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-A-Sa&layout=compact&langs_count=7&theme=dracula"/>   
 </div>
 
 <p align = "center">
@@ -30,15 +27,6 @@ Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_
 <img align="center" src="https://img.shields.io/badge/-CSS-F27F42?logo=css">
 <img align="center" src="https://img.shields.io/badge/-JavaScript-F2E742?logo=Javascript">
 </p>
-
-<div align = "center">
-    <img 
-        align ="center" 
-        alt = "Statistics 1"
-        title = "Statistics 1"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-A-Sa&theme=dracula"
-    >
-</div>
 
 <h2 align = "center" >Projects</h2>
 <p align = "center">
