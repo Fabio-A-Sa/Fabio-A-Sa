@@ -31,6 +31,9 @@ Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_
 | DA   | [TraveLog](https://github.com/Fabio-A-Sa/Y2S2-DesenhoDeAlgoritmos/tree/main/Project%202)  | A travel agency wants to organize routes and connections for its customers in the best possible way                                                           | 19.3        |
 | PFL  | [Barca](https://github.com/Fabio-A-Sa/Y3S1-ProgFuncionalLogica/tree/main/Project2)     | A boardgame implemented with Prolog and Minimax AI algorithm to predict oponnent's movements                                                                  | 19.8        |
 | RCOM  | [PTransfer](https://github.com/Fabio-A-Sa/Y3S1-RedesComputadores/tree/main/Project1)     |  Data connection protocol for transferring files between two computers                                                                | 18.6        |
+| IA   | [Cohesion Free](https://github.com/Fabio-A-Sa/Y3S2-InteligenciaArtificial/tree/main/Project%201)     |  A board game implemented with several artificial intelligence search algorithms                                                                | 20.0        |
+| IA   | [Cancer Prediction](https://github.com/Fabio-A-Sa/Y3S2-InteligenciaArtificial/tree/main/Project%202)     |  Cancer prediction using Machine Learning algorithms                                                                | 19.5        |
+| COMP   | [Jmm Compiler](https://github.com/Fabio-A-Sa/Y3S2-Compiladores/tree/main/Project/CheckpointFinal)     |  A simple but complete Java Minus Minus Compiler                                                                | 19.4        |
 
 <h2 align = "center" >Contact me:</h2>
 <p align="center">
