@@ -34,6 +34,8 @@ Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_
 | IA   | [Cohesion Free](https://github.com/Fabio-A-Sa/Y3S2-InteligenciaArtificial/tree/main/Project%201)     |  A board game implemented with several artificial intelligence search algorithms                                                                | 20.0        |
 | IA   | [Cancer Prediction](https://github.com/Fabio-A-Sa/Y3S2-InteligenciaArtificial/tree/main/Project%202)     |  Cancer prediction using Machine Learning algorithms                                                                | 19.5        |
 | COMP   | [Jmm Compiler](https://github.com/Fabio-A-Sa/Y3S2-Compiladores/tree/main/Project/CheckpointFinal)     |  A simple but complete Java Minus Minus Compiler                                                                | 19.4        |
+| CG   | [GrapyBird](https://github.com/Fabio-A-Sa/Y3S2-ComputacaoGrafica/tree/main/Project)     |  A graphical scene using WebGL and tricks learned in class                                                                | 19.7        |
+| CPD   | [GameServer](https://github.com/Fabio-A-Sa/Y3S2-ComputacaoParalelaDistribuida/tree/main/Project%202)     |  A distributed game server without race conditions, with fault tolerance, avoid slow clients and multithreading                                                               | 19.6        |
 
 <h2 align = "center" >Contact me:</h2>
 <p align="center">
