@@ -2,7 +2,7 @@
 <img href="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <h2 align = "center" >Hi, I'm Fábio Sá </h2>
 <h3><a href="https://fabio-a-sa.github.io">Online Resume</a></h3>
-  <img src="https://komarev.com/ghpvc/?username=Fabio-A-Sa&color=green&style=for-the-badge"></img>
+  <img src="https://komarev.com/ghpvc/?username=Fabio-A-Sa&color=blue&style=for-the-badge"></img>
 </div>
 <br>
 
