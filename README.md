@@ -6,7 +6,16 @@
 </div>
 <br>
 
-Currently Student at [Faculty of Engineering](https://sigarra.up.pt/feup/pt/web_page.inicial) of the University of Porto at Master in Informatics and Computing Engineering ([MIEIC](https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_curso_id=742)).
+Currently:
+- MSc in Informatics and Computing Engineering @ [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) <br>
+
+- Teaching Assistant LBAW @ [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial)
+<br> Help students in Laboratory of Databases and Web Applications course (LBAW). Technical support for students, inside and outside the classroom, organize an weekly class, review LBAW Project Template and Documentation. <br>
+
+- QA Automation Engineer @ [Sky](https://www.sky.com)
+<br> As part of Sky WEB Team, my job is to automate tests of the most varied types to for Peacock, SkyShowtime, and Showmax Sky products around the world.
+
+<br>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabio-A-Sa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
