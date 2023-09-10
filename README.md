@@ -13,7 +13,7 @@ Currently:
 <br> Help students in Laboratory of Databases and Web Applications course (LBAW). Technical support for students, inside and outside the classroom, organize an weekly class, review LBAW Project Template and Documentation. <br>
 
 - QA Automation Engineer @ [Sky](https://www.sky.com)
-<br> As part of Sky WEB Team, my job is to automate tests of the most varied types to for Peacock, SkyShowtime, and Showmax Sky products around the world.
+<br> As part of Sky WEB Team, my job is to automate tests of the most varied types for Peacock, SkyShowtime, and Showmax Sky products around the world.
 
 <br>
 
