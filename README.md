@@ -12,7 +12,7 @@ Currently:
 - Teaching Assistant LBAW @ [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial)
 <br> Help students in Laboratory of Databases and Web Applications course (LBAW). Technical support for students, inside and outside the classroom, organize an weekly class, review LBAW Project Template and Documentation. <br>
 
-- QA Automation Engineer @ [Sky](https://www.sky.com)
+- Associate QA Automation Engineer @ [Sky](https://www.sky.com)
 <br> As part of Sky WEB Team, my job is to automate tests of the most varied types for Peacock, SkyShowtime, and Showmax Sky products around the world.
 
 <br>
@@ -50,7 +50,7 @@ Currently:
 
 <h2 align = "center" >Contact me:</h2>
 <p align="center">
-<a href="mailto:up202007658@edu.fe.up.pt" >
+<a href="mailto:up202007658@up.pt" >
   <img align="center" title="Email" src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"/>
 </a>
 </p>
