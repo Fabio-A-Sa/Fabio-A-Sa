@@ -47,6 +47,7 @@ Currently:
 | COMP   | [Jmm Compiler](https://github.com/Fabio-A-Sa/Y3S2-Compiladores/tree/main/Project/CheckpointFinal)     |  A simple but complete Java Minus Minus Compiler                                                                | 19.4        |
 | CG   | [GrapyBird](https://github.com/Fabio-A-Sa/Y3S2-ComputacaoGrafica/tree/main/Project)     |  A graphical scene using WebGL and tricks learned in class                                                                | 19.7        |
 | CPD   | [GameServer](https://github.com/Fabio-A-Sa/Y3S2-ComputacaoParalelaDistribuida/tree/main/Project%202)     |  A distributed game server without race conditions, with fault tolerance, avoid slow clients and multithreading                                                               | 19.6        |
+| PRI   | [Hotel? PRIvago](https://github.com/Fabio-A-Sa/Y4S1-ProcessamentoRInfo/tree/main/Project%202)     |  A complete information and search system for Hotels around the world                                                                 | TBD        |
 
 <h2 align = "center" >Contact me:</h2>
 <p align="center">
