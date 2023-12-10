@@ -48,7 +48,8 @@ Currently:
 | CG   | [GrapyBird](https://github.com/Fabio-A-Sa/Y3S2-ComputacaoGrafica/tree/main/Project)     |  A graphical scene using WebGL and tricks learned in class                                                                | 19.7        |
 | CPD   | [GameServer](https://github.com/Fabio-A-Sa/Y3S2-ComputacaoParalelaDistribuida/tree/main/Project%202)     |  A distributed game server without race conditions, with fault tolerance, avoid slow clients and multithreading                                                               | 19.6        |
 | PRI   | [Hotel? Privago](https://github.com/Fabio-A-Sa/Y4S1-ProcessamentoRInfo/tree/main/Project)     |  A complete information and search system for Hotels around the world                                                                 | TBD        |
-| SGI   | [This is Fine](https://github.com/Fabio-A-Sa/Y4S1-ProcessamentoRInfo/tree/main/Project%202)     |  Recreation of the famous [This is Fine meme](https://knowyourmeme.com/memes/this-is-fine) scene, applying computer graphics knowledge                                                                | TBD        |
+| SGI   | [This is Fine](https://github.com/Fabio-A-Sa/Y4S1-ProcessamentoRInfo/tree/main/Project%202)     |  Recreation of the famous [This is Fine meme](https://knowyourmeme.com/memes/this-is-fine) scene, applying computer graphics knowledge                                                                | 19.7        |
+| SDLE   | [BuyBuddy](https://github.com/Fabio-A-Sa/Y4S1-ProcessamentoRInfo/tree/main/Project%202)     | A Local-First Shopping List application, using CRDTs for data replication and consistency between nodes                                                                 | 19.7        |
 
 <h2 align = "center" >Contact me:</h2>
 <p align="center">
