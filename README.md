@@ -9,11 +9,8 @@
 Currently:
 - MSc in Informatics and Computing Engineering @ [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) <br>
 
-- Teaching Assistant LBAW @ [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial)
-<br> Help students in Laboratory of Databases and Web Applications course (LBAW). Technical support for students, inside and outside the classroom, organize an weekly class, review LBAW Project Template and Documentation. <br>
-
-- QA Automation Engineer @ [Sky](https://www.sky.com)
-<br> As part of Sky WEB Team, my job is to automate tests of the most varied types for Peacock, SkyShowtime, and Showmax Sky products around the world.
+- Associate QA Automation Engineer @ [Sky](https://www.sky.com)
+<br> As part of Sky Web Automation Team, my job is to automate tests of the most varied types for Peacock, SkyShowtime, and Showmax Sky products around the world. Web Release Team member.
 
 <br>
 
@@ -47,10 +44,9 @@ Currently:
 | COMP   | [Jmm Compiler](https://github.com/Fabio-A-Sa/Y3S2-Compiladores/tree/main/Project/CheckpointFinal)     |  A simple but complete Java Minus Minus Compiler                                                                | 19.4        |
 | CG   | [GrapyBird](https://github.com/Fabio-A-Sa/Y3S2-ComputacaoGrafica/tree/main/Project)     |  A graphical scene using WebGL and tricks learned in class                                                                | 19.7        |
 | CPD   | [GameServer](https://github.com/Fabio-A-Sa/Y3S2-ComputacaoParalelaDistribuida/tree/main/Project%202)     |  A distributed game server without race conditions, with fault tolerance, avoid slow clients and multithreading                                                               | 19.6        |
+| PRI   | [Hotel? Privago](https://github.com/Fabio-A-Sa/Y4S1-ProcessamentoRInfo/tree/main/Project)     |  A complete information and search system for Hotels around the world                                                                 | 18.8        |
+| SGI   | [This is Fine](https://github.com/Fabio-A-Sa/Y4S1-SistemasGraficosInterfaces/tree/main/Project%201)     |  Recreation of the famous [This is Fine meme](https://knowyourmeme.com/memes/this-is-fine) scene, applying computer graphics knowledge                                                                | 19.7        |
+| SDLE   | [BuyBuddy](https://github.com/Fabio-A-Sa/Y4S1-SistemasDistribuidosLE/tree/main/Project)     | A Local-First Shopping List application, using CRDTs for data replication and consistency between nodes                                                                 | 18.5        |
 
-<h2 align = "center" >Contact me:</h2>
-<p align="center">
-<a href="mailto:up202007658@edu.fe.up.pt" >
-  Contact me!
-</a>
-</p>
+<h2 align = "center" ><a href="mailto:up202007658@up.pt">Contact me:</a></h2>
+<br></br>
