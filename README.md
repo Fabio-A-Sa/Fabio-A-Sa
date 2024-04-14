@@ -48,5 +48,4 @@ Currently:
 | SGI   | [This is Fine](https://github.com/Fabio-A-Sa/Y4S1-SistemasGraficosInterfaces/tree/main/Project%201)     |  Recreation of the famous [This is Fine meme](https://knowyourmeme.com/memes/this-is-fine) scene, applying computer graphics knowledge                                                                | 19.7        |
 | SDLE   | [BuyBuddy](https://github.com/Fabio-A-Sa/Y4S1-SistemasDistribuidosLE/tree/main/Project)     | A Local-First Shopping List application, using CRDTs for data replication and consistency between nodes                                                                 | 18.5        |
 
-<h2 align = "center" ><a href="mailto:up202007658@up.pt">Contact me:</a></h2>
-<br></br>
+<h3 align = "center" ><a href="mailto:up202007658@up.pt">Contact me!</a></h3>
