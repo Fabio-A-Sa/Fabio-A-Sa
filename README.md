@@ -47,5 +47,6 @@ Currently:
 | PRI   | [Hotel? Privago](https://github.com/Fabio-A-Sa/Y4S1-ProcessamentoRInfo/tree/main/Project)     |  A complete information and search system for Hotels around the world                                                                 | 18.8        |
 | SGI   | [This is Fine](https://github.com/Fabio-A-Sa/Y4S1-SistemasGraficosInterfaces/tree/main/Project%201)     |  Recreation of the famous [This is Fine meme](https://knowyourmeme.com/memes/this-is-fine) scene, applying computer graphics knowledge                                                                | 19.7        |
 | SDLE   | [BuyBuddy](https://github.com/Fabio-A-Sa/Y4S1-SistemasDistribuidosLE/tree/main/Project)     | A Local-First Shopping List application, using CRDTs for data replication and consistency between nodes                                                                 | 18.5        |
+| BDNR   | [TickETCD](https://github.com/Fabio-A-Sa/Y4S2-BasesDadosNaoRelacionais/tree/main/Project)     | A ticket shop using a ETCD distributed database                                                                 | 19.0        |
 
 <h3 align = "center" ><a href="mailto:up202007658@up.pt">Contact me!</a></h3>
