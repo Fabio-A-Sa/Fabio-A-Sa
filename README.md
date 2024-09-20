@@ -7,10 +7,10 @@
 <br>
 
 Currently:
-- MSc in Informatics and Computing Engineering @ [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) <br>
+- MSc in Informatics and Computing Engineering @ [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) (2nd Year) <br>
 
 - Associate QA Automation Engineer @ [Sky](https://www.sky.com)
-<br> As part of Sky Web Automation Team, my job is to automate tests of the most varied types for Peacock, SkyShowtime, and Showmax Sky products around the world. Web Release Team member.
+<br> As part of Sky Web Automation Team, my job is to automate tests of the most varied types for [Peacock](https://www.peacocktv.com), [SkyShowtime](http://skyshowtime.com/), and [Showmax](http://showmax.com/) products around the world. Web Release Team member.
 
 <br>
 
