@@ -50,3 +50,5 @@ Currently:
 | BDNR   | [TickETCD](https://github.com/Fabio-A-Sa/Y4S2-BasesDadosNaoRelacionais/tree/main/Project)     | A ticket shop using a ETCD distributed database                                                                 | 19.0        |
 
 <h3 align = "center" ><a href="mailto:up202007658@up.pt">Contact me!</a></h3>
+
+![](https://hit.yhype.me/github/profile?user_id=72668966)
