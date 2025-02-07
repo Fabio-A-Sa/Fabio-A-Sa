@@ -51,6 +51,7 @@ Currently:
 | SDLE   | [BuyBuddy](https://github.com/Fabio-A-Sa/Y4S1-SistemasDistribuidosLE/tree/main/Project)     | A Local-First Shopping List application, using CRDTs for data replication and consistency between nodes                                                                 | 18.5        |
 | BDNR   | [TickETCD](https://github.com/Fabio-A-Sa/Y4S2-BasesDadosNaoRelacionais/tree/main/Project)     | A ticket shop using a ETCD distributed database                                                                 | 19.0        |
 | ELS   | [PreQL](https://github.com/Fabio-A-Sa/Y5S1-EngenhariaLinguagensSoftware/tree/main/Project)     | PreQL language is based on a subset of SQL functionalities used to import, manipulate, and export tabular data.                                                                 | 19.0        |
+| WSDL   | [Wordify](https://github.com/Fabio-A-Sa/Y5S1-WebSematicaDados/tree/main/Project)     | Wordify is a system that disambiguates existing entities using Web Semantics principles                                                                 | 19.2        |
 
 <h3 align = "center" ><a href="mailto:up202007658@up.pt">Contact me!</a></h3>
 
